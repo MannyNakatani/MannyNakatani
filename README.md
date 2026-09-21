@@ -19,5 +19,5 @@
 - Building practical software projects
 
 ## Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/manato-nakatani/]
-- Email: [manny.nakatani@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/manato-nakatani/
+- Email: manny.nakatani@gmail.com
