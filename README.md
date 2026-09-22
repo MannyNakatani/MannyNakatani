@@ -7,7 +7,7 @@
 - Graduating May 2027
 
 ## Technical Skills
-- Languages: Python, Java, C, TypeScript, JavaScript, HTML/CSS, Rust, OCaml
+- Languages: Python, Java, C, TypeScript, JavaScript, HTML/CSS, Rust, OCaml, SQL
 - Frameworks & Technologies: React Native, Expo, Firebase, Supabase
 - Data & Machine Learning: Pandas, scikit-learn, PyTorch
 - Developer Tools: Git, GitHub, Linux/Unix, Jupyter
